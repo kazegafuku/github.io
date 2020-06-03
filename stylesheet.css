@@ -20,20 +20,3 @@ li{
 }
 
 
-h1{
-  color:red;
-  background-color:#FF99FF;
-  heigt:80px;
-  width:200px;
-  }
-li{
-  list-style:none;
-  float:left;
-}
-h3{
-  color:red;
-}
-h4{
-  color:red;
-  font_size:30px;
-}
