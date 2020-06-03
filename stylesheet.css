@@ -4,7 +4,10 @@ h1{
   heigt:80px;
   width:200px;
   }
-
+li{
+  list-style:none;
+  float:left;
+}
 h3{
   color:red;
 }
