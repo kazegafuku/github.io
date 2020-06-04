@@ -70,7 +70,10 @@ li{
     margin-top:30px;
   }
   
-  
+  h6{
+    color:red;
+}
+
   .contact-form{
     padding-top:100px;
   }
