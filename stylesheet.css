@@ -76,7 +76,7 @@ li{
     padding-top:100px;
   }
   
-input.textra{
+input,textra{
   width:400px;
   margin-top:10px;
   margin-bottom:30px;
@@ -91,7 +91,7 @@ input.textra{
      
   
 .footer{
-  background-color:#215167;
+  background-color:#2f5167;
   color:#fff
   height:120px;
   padding:40px;
@@ -108,7 +108,7 @@ input.textra{
 }
 
 .footer-list li{
-  padding:bottom:10px;
+  padding-bottom20px;
 }
 
 
