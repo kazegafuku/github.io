@@ -25,7 +25,6 @@ li{
   .header-list li{
     float:left;
     padding:33px 20px;
-    color:#red;
   }
   
 
@@ -71,9 +70,7 @@ li{
     margin-top:30px;
   }
   
-  h5{
-    color:red;
-}
+  
 
   .contact-form{
     padding-top:100px;
